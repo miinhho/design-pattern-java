@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="moduleKind" value="plain" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>마이그레이션Kotlin</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Gradle 마이그레이션Kotlin</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>JUnit</id>
+          </State>
+          <State>
+            <id>JVM 언어</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 21Java 언어 수준 마이그레이션 지원Java</id>
+          </State>
+          <State>
+            <id>Java 7Java 언어 수준 마이그레이션 지원Java</id>
+          </State>
+          <State>
+            <id>Java 8Java 언어 수준 마이그레이션 지원Java</id>
+          </State>
+          <State>
+            <id>Java 언어 수준 마이그레이션 지원Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>가시성Java</id>
+          </State>
+          <State>
+            <id>기타 문제Kotlin</id>
+          </State>
+          <State>
+            <id>로깅JVM 언어</id>
+          </State>
+          <State>
+            <id>모범 사례Gradle</id>
+          </State>
+          <State>
+            <id>발생할 수 있는 버그Java</id>
+          </State>
+          <State>
+            <id>보안</id>
+          </State>
+          <State>
+            <id>성능Java</id>
+          </State>
+          <State>
+            <id>유효성 문제Gradle</id>
+          </State>
+          <State>
+            <id>장황하거나 중복 코드 구문Java</id>
+          </State>
+          <State>
+            <id>추상화 문제Java</id>
+          </State>
+          <State>
+            <id>컴파일러 문제Java</id>
+          </State>
+          <State>
+            <id>코드 구문이 혼동될 수 있습니다.Groovy</id>
+          </State>
+          <State>
+            <id>코드 성숙도Java</id>
+          </State>
+          <State>
+            <id>코드 스타일 이슈Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>사용자 정의</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
