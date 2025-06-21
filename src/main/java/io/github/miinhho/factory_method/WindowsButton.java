@@ -32,12 +32,9 @@ public class WindowsButton implements Button {
     @Override
     public void onClick() {
         button = new JButton("Exit");
-        button.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
+        button.addActionListener(e -> {
                 frame.setVisible(false);
                 System.exit(1);
-            }
         });
     }
 }
