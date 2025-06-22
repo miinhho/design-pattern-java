@@ -1,12 +1,11 @@
 package io.github.miinhho.prototype;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import io.github.miinhho.prototype.shapes.Circle;
 import io.github.miinhho.prototype.shapes.Rectangle;
 import io.github.miinhho.prototype.shapes.Shape;
-
-import java.awt.*;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Demo {
     public static void main(String[] args) {
